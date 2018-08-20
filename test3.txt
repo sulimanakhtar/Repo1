@@ -1,0 +1,15 @@
+ Volume in drive C is Windows
+ Volume Serial Number is BA2A-5B66
+
+ Directory of C:\Users\makhtar\Downloads\Data\Automation\Github\MyFolder
+
+20/08/2018  11:56    <DIR>          .
+20/08/2018  11:56    <DIR>          ..
+17/08/2018  14:38                 0 index.html
+17/08/2018  16:18                 0 index2.html
+20/08/2018  10:14               564 index3.html
+20/08/2018  10:14                 8 test1.txt
+17/08/2018  16:18                 8 test2.txt
+20/08/2018  11:56                 0 test3.txt
+               6 File(s)            580 bytes
+               2 Dir(s)  154,638,143,488 bytes free
